@@ -1,5 +1,5 @@
 {
-  "name": "superappcore",
+  "name": "@test-superapp/superappcore",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -33,5 +33,17 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "Core module for react-native superapp architecture",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olioss/test-superapp-core.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olioss/test-superapp-core/issues"
+  },
+  "homepage": "https://github.com/olioss/test-superapp-core#readme"
 }
